@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-1.png",Monomax 1
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-2.png",Monomax 2
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-3.png",Monomax 3
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-4.png",Monomax 4
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-5.png",Monomax 5
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",Monomax 10
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
