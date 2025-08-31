@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",EPL GREEN
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",EPL GREEN
 https://wandering-oldman.github.io/sport/epl3-green.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports UK", TNT Sports 1 FHD
