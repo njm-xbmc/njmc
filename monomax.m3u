@@ -36,16 +36,16 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 #EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",EPL GREEN
 https://wandering-oldman.github.io/sport/epl3-green.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports | UK", TNT Sports 1 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports UK", TNT Sports 1 FHD
 https://7pal.short.gy/tntspts1
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports | UK", Sky Sports Main Event FHD
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports UK", Sky Sports Main Event FHD
 https://7pal.short.gy/SkSpMainE
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports | UK", Sky Sports PremierLeague FHD
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports UK", Sky Sports PremierLeague FHD
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports | EPL", Astro Grandstand FHD
+#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports EPL", Astro Grandstand FHD
 https://7pal.short.gy/astross3
 
 #EXTINF:-1 group-title="Others" tvg-logo="",STAR SPORTS SELECT 1
