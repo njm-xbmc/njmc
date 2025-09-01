@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-1.png",Monomax 1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-1.png",Monomax 1 EN
-https://wandering-oldman.github.io/sport/epl1-blue.m3u8
-
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-2.png",Monomax 2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
@@ -33,8 +30,23 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 
-#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",EPL GREEN
-https://wandering-oldman.github.io/sport/epl3-green.m3u8
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://github.com/njm-xbmc/njmc/blob/master/logos/epllogo.png",EPL 1
+https://wandering-oldman.github.io/sport/epl1-green.m3u8
+
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://github.com/njm-xbmc/njmc/blob/master/logos/epllogo.png",EPL 2
+https://wandering-oldman.github.io/sport/epl2-blue.m3u8
+
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://github.com/njm-xbmc/njmc/blob/master/logos/epllogo.png",EPL 3
+https://wandering-oldman.github.io/sport/epl3-blue.m3u8
+
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://github.com/njm-xbmc/njmc/blob/master/logos/starsportsselect1.png",STAR SPORTS SELECT 1
+https://tplay-vivek.vercel.app/play.m3u8?id=246
+
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://github.com/njm-xbmc/njmc/blob/master/logos/starsportsselect1.png",STAR SPORTS SELECT 2
+https://tplay-vivek.vercel.app/play.m3u8?id=463
+
+#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports EPL", Astro Grandstand FHD
+https://7pal.short.gy/astross3
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports UK", TNT Sports 1 FHD
 https://7pal.short.gy/tntspts1
@@ -45,11 +57,3 @@ https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports UK", Sky Sports PremierLeague FHD
 https://7pal.short.gy/ssportspl
 
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports EPL", Astro Grandstand FHD
-https://7pal.short.gy/astross3
-
-#EXTINF:-1 group-title="Others" tvg-logo="",STAR SPORTS SELECT 1
-https://tplay-vivek.vercel.app/play.m3u8?id=246
-
-#EXTINF:-1 group-title="Others" tvg-logo="",STAR SPORTS SELECT 2
-https://tplay-vivek.vercel.app/play.m3u8?id=463
