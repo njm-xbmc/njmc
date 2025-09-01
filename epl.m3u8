@@ -40,7 +40,7 @@ https://wandering-oldman.github.io/sport/epl2-blue.m3u8
 https://wandering-oldman.github.io/sport/epl3-blue.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?|drmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://github.com/njm-xbmc/njmc/blob/master/logos/starsportsselect1.png",STAR SPORTS SELECT 1
 https://tplay-vivek.vercel.app/play.m3u8?id=246
