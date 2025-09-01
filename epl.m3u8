@@ -24,11 +24,11 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",Monomax 10
-https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
-
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
+
+#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",Monomax 10
+https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://github.com/njm-xbmc/njmc/blob/master/logos/epllogo.png",EPL 1
 https://wandering-oldman.github.io/sport/epl1-green.m3u8
