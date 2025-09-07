@@ -134,3 +134,6 @@ https://too.mytherix.cz/f1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/motorsport-logo-simple-modern-eps-260nw-2090986291.jpg" group-title="Motorsport", F1
 https://city.ncvtmisgov.com/f1alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/wwe-logo.png" group-title="WWE", WWE HD
+https://too.mytherix.cz/wwe.m3u8
