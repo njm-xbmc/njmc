@@ -134,3 +134,15 @@ https://city.ncvtmisgov.com/f1alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/wwe-logo.png" group-title="WWE", WWE HD
 https://too.mytherix.cz/wwe.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", BRIGHTON
+https://too.mytherix.cz/brighton.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", EVERTON
+https://try.ncvtmisgov.com/everton.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", NEWCASTLE
+https://try.ncvtmisgov.com/newcastle.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", ARSENAL
+https://too.mytherix.cz/arsenal.m3u8
