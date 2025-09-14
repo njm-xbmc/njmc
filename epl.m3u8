@@ -15,19 +15,19 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
 #EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-5.png",Monomax 5
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4685.png",Monomax 6
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-6.png",Monomax 6
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4686.png",Monomax 7
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-7.png",Monomax 7
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4687.png",Monomax 8
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-8.png",Monomax 8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4688.png",Monomax 9
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-9.png",Monomax 9
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4689.png",Monomax 10
+#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-10.png",Monomax 10
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 1
@@ -37,22 +37,16 @@ https://wandering-oldman.github.io/sport/epl1-green.m3u8
 https://wandering-oldman.github.io/sport/epl2-blue.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 3
-https://wandering-oldman.github.io/sport/epl3-blue.m3u8
+https://try.ncvtmisgov.com/deportes.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 4
-https://wandering-oldman.github.io/sport/epl4-blue.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 5
-https://wandering-oldman.github.io/sport/epl5-blue.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 6
 https://wandering-oldman.github.io/sport/epl6-blue.m3u8
-
-#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/starsportsselect1.png",STAR SPORTS SELECT 1
-https://tplay-vivek.vercel.app/play.m3u8?id=246
-
-#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/starsportsselect2.png",STAR SPORTS SELECT 2
-https://tplay-vivek.vercel.app/play.m3u8?id=463
 
 #EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports EPL", Astro Grandstand FHD
 https://7pal.short.gy/astross3
@@ -81,49 +75,49 @@ https://dtvxtream.com/sonyliv2/301738.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/1200px-Sony_Sports_Network.svg.png" group-title="Sony Sports", Sony Sports 5 HD
 https://dtvxtream.com/sonyliv2/300258.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL REDZONE HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE HD
 https://too.mytherix.cz/redzone.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL REDZONE
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE
 https://city.ncvtmisgov.com/redzone.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL HD
 https://too.mytherix.cz/nfl.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 1 HD
 https://too.mytherix.cz/nfl1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 2 HD
 https://too.mytherix.cz/nfl2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 3 HD
 https://too.mytherix.cz/nfl3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 4 HD
 https://too.mytherix.cz/nfl4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 5 HD
 https://too.mytherix.cz/nfl5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 6 HD
 https://too.mytherix.cz/nfl6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 7 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 7 HD
 https://too.mytherix.cz/nfl7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 8 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 8 HD
 https://too.mytherix.cz/nfl8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 9 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 9 HD
 https://too.mytherix.cz/nfl9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 10 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 10 HD
 https://too.mytherix.cz/nfl10.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 11 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 11 HD
 https://too.mytherix.cz/nfl11.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nfl-1-logo-png-transparent.png" group-title="NFL", NFL 12 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 12 HD
 https://too.mytherix.cz/nfl12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/motorsport-logo-simple-modern-eps-260nw-2090986291.jpg" group-title="Motorsport", F1 HD
@@ -135,14 +129,14 @@ https://city.ncvtmisgov.com/f1alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/wwe-logo.png" group-title="WWE", WWE HD
 https://too.mytherix.cz/wwe.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", BRIGHTON
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/epl_brighton_new.png" group-title="EPL TEAMS", BRIGHTON
 https://too.mytherix.cz/brighton.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", EVERTON
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/epl_everton_new.png" group-title="EPL TEAMS", EVERTON
 https://try.ncvtmisgov.com/everton.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", NEWCASTLE
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/epl_newcastle_new.png" group-title="EPL TEAMS", NEWCASTLE
 https://try.ncvtmisgov.com/newcastle.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EPL TEAMS", ARSENAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/epl_arsenal_new.png" group-title="EPL TEAMS", ARSENAL
 https://too.mytherix.cz/arsenal.m3u8
