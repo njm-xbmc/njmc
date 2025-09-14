@@ -30,31 +30,31 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 #EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 10
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 
-#EXTINF:-1 tvg-id="SkySports1.mv" tvg-name="Sky Sports 1 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 1 FHD
+#EXTINF:-1 tvg-id="SkySports1.mv" tvg-name="Sky Sports 1 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 1 HD
 https://maldivesn.net/hilaytv/skysportsnz1
 
-#EXTINF:-1 tvg-id="SkySports2.mv" tvg-name="Sky Sports 2 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 2 FHD
+#EXTINF:-1 tvg-id="SkySports2.mv" tvg-name="Sky Sports 2 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 2 HD
 https://maldivesn.net/hilaytv/skysportsnz2
 
-#EXTINF:-1 tvg-id="SkySports3.mv" tvg-name="Sky Sports 3 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 3 FHD
+#EXTINF:-1 tvg-id="SkySports3.mv" tvg-name="Sky Sports 3 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 3 HD
 https://maldivesn.net/hilaytv/skysportsnz3
 
-#EXTINF:-1 tvg-id="SkySports4.mv" tvg-name="Sky Sports 4 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 4 FHD
+#EXTINF:-1 tvg-id="SkySports4.mv" tvg-name="Sky Sports 4 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 4 HD
 https://maldivesn.net/hilaytv/skysportsnz4
 
-#EXTINF:-1 tvg-id="SkySports5.mv" tvg-name="Sky Sports 5 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 5 FHD
+#EXTINF:-1 tvg-id="SkySports5.mv" tvg-name="Sky Sports 5 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 5 HD
 https://maldivesn.net/hilaytv/skysportsnz5
 
-#EXTINF:-1 tvg-id="SkySports6.mv" tvg-name="Sky Sports 6 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 6 FHD
+#EXTINF:-1 tvg-id="SkySports6.mv" tvg-name="Sky Sports 6 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 6 HD
 https://maldivesn.net/hilaytv/skysportsnz6
 
-#EXTINF:-1 tvg-id="SkySports7.mv" tvg-name="Sky Sports 7 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 7 FHD
+#EXTINF:-1 tvg-id="SkySports7.mv" tvg-name="Sky Sports 7 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 7 HD
 https://maldivesn.net/hilaytv/skysportsnz7
 
-#EXTINF:-1 tvg-id="SkySports8.mv" tvg-name="Sky Sports 8 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 8 FHD
+#EXTINF:-1 tvg-id="SkySports8.mv" tvg-name="Sky Sports 8 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 8 HD
 https://maldivesn.net/hilaytv/skysportsnz8
 
-#EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 9 FHD
+#EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 9 HD
 https://maldivesn.net/hilaytv/skysportsnz9
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 1
