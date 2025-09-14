@@ -78,8 +78,14 @@ https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 7
 https://7pal.short.gy/astross3
 
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 8
+https://too.mytherix.cz/now.m3u8
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://epg.liathroid.online/Picon25/tntsports_final.png" group-title="Sports UK", TNT Sports 1 FHD
 https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://epg.liathroid.online/Picon25/tntsports_final.png" group-title="Sports UK", TNT Sports 1 HD
+https://too.mytherix.cz/tnt.m3u8
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://epg.liathroid.online/Picon25/skysports_mainevent_final.png" group-title="Sports UK", Sky Sports Main Event FHD
 https://7pal.short.gy/SkSpMainE
@@ -114,11 +120,14 @@ https://tvpass.org/live/NFLNetwork/hd
 #EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone HD" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL",NFL RedZone FHD
 https://tvpass.org/live/NFLRedZone/hd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE FHD
 https://too.mytherix.cz/redzone.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE HD
 https://city.ncvtmisgov.com/redzone.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE
+https://city.ncvtmisgov.com/redzonealt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL HD
 https://too.mytherix.cz/nfl.m3u8
@@ -182,3 +191,6 @@ https://try.ncvtmisgov.com/newcastle.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/epl_arsenal_new.png" group-title="EPL TEAMS", ARSENAL
 https://too.mytherix.cz/arsenal.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/epl_manutd_new.png" group-title="EPL TEAMS", MAN UNITED
+https://too.mytherix.cz/united.m3u8
