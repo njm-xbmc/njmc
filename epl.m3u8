@@ -1,43 +1,70 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-1.png",Monomax 1
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 1
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax1.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-2.png",Monomax 2
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 2
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax2.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-3.png",Monomax 3
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 3
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax3.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-4.png",Monomax 4
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 4
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax4.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-5.png",Monomax 5
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 5
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax5.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-6.png",Monomax 6
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 6
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax6.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-7.png",Monomax 7
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 7
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax7.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-8.png",Monomax 8
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax8.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-9.png",Monomax 9
+#EXTINF:-1 group-title="Monomax Sports"  tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 9
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 
-#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://www.andaman888th.net/wp-content/uploads/2020/11/monomax-10.png",Monomax 10
+#EXTINF:-1 group-title="Monomax Sports" tvg-logo="https://epg.liathroid.online/Picon25/monomax_all.png",Monomax 10
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 
+#EXTINF:-1 tvg-id="SkySports1.mv" tvg-name="Sky Sports 1 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 1 FHD
+https://maldivesn.net/hilaytv/skysportsnz1
+
+#EXTINF:-1 tvg-id="SkySports2.mv" tvg-name="Sky Sports 2 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 2 FHD
+https://maldivesn.net/hilaytv/skysportsnz2
+
+#EXTINF:-1 tvg-id="SkySports3.mv" tvg-name="Sky Sports 3 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 3 FHD
+https://maldivesn.net/hilaytv/skysportsnz3
+
+#EXTINF:-1 tvg-id="SkySports4.mv" tvg-name="Sky Sports 4 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 4 FHD
+https://maldivesn.net/hilaytv/skysportsnz4
+
+#EXTINF:-1 tvg-id="SkySports5.mv" tvg-name="Sky Sports 5 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 5 FHD
+https://maldivesn.net/hilaytv/skysportsnz5
+
+#EXTINF:-1 tvg-id="SkySports6.mv" tvg-name="Sky Sports 6 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 6 FHD
+https://maldivesn.net/hilaytv/skysportsnz6
+
+#EXTINF:-1 tvg-id="SkySports7.mv" tvg-name="Sky Sports 7 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 7 FHD
+https://maldivesn.net/hilaytv/skysportsnz7
+
+#EXTINF:-1 tvg-id="SkySports8.mv" tvg-name="Sky Sports 8 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 8 FHD
+https://maldivesn.net/hilaytv/skysportsnz8
+
+#EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 9 FHD
+https://maldivesn.net/hilaytv/skysportsnz9
+
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 1
-https://wandering-oldman.github.io/sport/epl1-green.m3u8
+https://maldivesn.net/hilaytv/premierleaguetv
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 2
-https://wandering-oldman.github.io/sport/epl2-blue.m3u8
+https://maldivesn.net/hilaytv/astrograndstand
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 3
-https://try.ncvtmisgov.com/deportes.m3u8
+https://maldivesn.net/hilaytv/astropremierleague1
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 4
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
@@ -46,19 +73,25 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 6
-https://wandering-oldman.github.io/sport/epl6-blue.m3u8
+https://tvpass.org/live/USANetworkEast/hd
 
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="Sports EPL", Astro Grandstand FHD
+#EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 7
 https://7pal.short.gy/astross3
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Sports UK", TNT Sports 1 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://epg.liathroid.online/Picon25/tntsports_final.png" group-title="Sports UK", TNT Sports 1 FHD
 https://7pal.short.gy/tntspts1
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sports UK", Sky Sports Main Event FHD
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://epg.liathroid.online/Picon25/skysports_mainevent_final.png" group-title="Sports UK", Sky Sports Main Event FHD
 https://7pal.short.gy/SkSpMainE
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sports UK", Sky Sports PremierLeague FHD
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://epg.liathroid.online/Picon25/skysports_epl_final.png" group-title="Sports UK", Sky Sports Premier League FHD
 https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://8upload.com/image/67dcf94fab602/StartSpselect1hd-e1740229230649.png" group-title="Sony Sports",Star Sports Select 1 HD
+https://maldivesn.net/hilaytv/starsportsselect1
+
+#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://8upload.com/image/67dcfe71e3473/strselect2__2_.png" group-title="Sony Sports",Star Sports Select 2 HD
+https://maldivesn.net/hilaytv/starsportsselect2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/1200px-Sony_Sports_Network.svg.png" group-title="Sony Sports", Sony Sports 1 HD
 https://dtvxtream.com/sonyliv2/300256.m3u8
@@ -74,6 +107,12 @@ https://dtvxtream.com/sonyliv2/301738.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/1200px-Sony_Sports_Network.svg.png" group-title="Sony Sports", Sony Sports 5 HD
 https://dtvxtream.com/sonyliv2/300258.m3u8
+
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network HD" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL",NFL Network HD
+https://tvpass.org/live/NFLNetwork/hd
+
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone HD" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL",NFL RedZone FHD
+https://tvpass.org/live/NFLRedZone/hd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL REDZONE HD
 https://too.mytherix.cz/redzone.m3u8
@@ -120,14 +159,17 @@ https://too.mytherix.cz/nfl11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 12 HD
 https://too.mytherix.cz/nfl12.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/motorsport-logo-simple-modern-eps-260nw-2090986291.jpg" group-title="Motorsport", F1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/skysportsf1_final.png" group-title="Motorsport", F1 HD
 https://too.mytherix.cz/f1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/motorsport-logo-simple-modern-eps-260nw-2090986291.jpg" group-title="Motorsport", F1
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/skysportsf1_final.png" group-title="Motorsport", F1
 https://city.ncvtmisgov.com/f1alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/wwe-logo.png" group-title="WWE", WWE HD
 https://too.mytherix.cz/wwe.m3u8
+
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network HD" tvg-logo="https://epg.liathroid.online/Picon25/mlb_leaguepass.png" group-title="MLB",MLB Network HD
+https://tvpass.org/live/MLBNetwork/hd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/epl_brighton_new.png" group-title="EPL TEAMS", BRIGHTON
 https://too.mytherix.cz/brighton.m3u8
