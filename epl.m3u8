@@ -144,6 +144,9 @@ https://too.mytherix.cz/nfl3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 4 HD
 https://too.mytherix.cz/nfl4.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 4 HD ALT
+https://dd.assadosoba.com.br/nfl4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 5 HD
 https://too.mytherix.cz/nfl5.m3u8
 
@@ -156,8 +159,14 @@ https://too.mytherix.cz/nfl7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 8 HD
 https://too.mytherix.cz/nfl8.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 8 HD ALT
+https://op.damynghetiendat.vn/nfl8.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 9 HD
 https://too.mytherix.cz/nfl9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 9 HD ALT
+https://op.damynghetiendat.vn/nfl9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.liathroid.online/Picon25/nfl_gamepass.png" group-title="NFL", NFL 10 HD
 https://too.mytherix.cz/nfl10.m3u8
