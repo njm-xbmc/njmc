@@ -45,40 +45,40 @@ https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax9.m3u8
 https://raw.githubusercontent.com/totae00-ux/m3u8/refs/heads/main/monomax10.m3u8
 
 #EXTINF:-1 tvg-id="SkySports1.mv" tvg-name="Sky Sports 1 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 1 HD
-https://maldivesn.net/hilaytv/skysportsnz1
+https://hilay.tv/l/skysportsnz1
 
 #EXTINF:-1 tvg-id="SkySports2.mv" tvg-name="Sky Sports 2 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 2 HD
-https://maldivesn.net/hilaytv/skysportsnz2
+https://hilay.tv/l/skysportsnz2
 
 #EXTINF:-1 tvg-id="SkySports3.mv" tvg-name="Sky Sports 3 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 3 HD
-https://maldivesn.net/hilaytv/skysportsnz3
+https://hilay.tv/l/skysportsnz3
 
 #EXTINF:-1 tvg-id="SkySports4.mv" tvg-name="Sky Sports 4 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 4 HD
-https://maldivesn.net/hilaytv/skysportsnz4
+https://hilay.tv/l/skysportsnz4
 
 #EXTINF:-1 tvg-id="SkySports5.mv" tvg-name="Sky Sports 5 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 5 HD
-https://maldivesn.net/hilaytv/skysportsnz5
+https://hilay.tv/l/skysportsnz5
 
 #EXTINF:-1 tvg-id="SkySports6.mv" tvg-name="Sky Sports 6 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 6 HD
-https://maldivesn.net/hilaytv/skysportsnz6
+https://hilay.tv/l/skysportsnz6
 
 #EXTINF:-1 tvg-id="SkySports7.mv" tvg-name="Sky Sports 7 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 7 HD
-https://maldivesn.net/hilaytv/skysportsnz7
+https://hilay.tv/l/skysportsnz7
 
 #EXTINF:-1 tvg-id="SkySports8.mv" tvg-name="Sky Sports 8 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 8 HD
-https://maldivesn.net/hilaytv/skysportsnz8
+https://hilay.tv/l/skysportsnz8
 
 #EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://epg.liathroid.online/Picon25/skysportnz_final.png" group-title="Sports",Sky Sports 9 HD
-https://maldivesn.net/hilaytv/skysportsnz9
+https://hilay.tv/l/skysportsnz9
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 1
-https://maldivesn.net/hilaytv/premierleaguetv
+https://hilay.tv/l/premierleaguetv
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 2
-https://maldivesn.net/hilaytv/astrograndstand
+https://hilay.tv/l/astrograndstand
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 3
-https://maldivesn.net/hilaytv/astropremierleague1
+https://hilay.tv/l/astropremierleague1
 
 #EXTINF:-1 group-title="Sports EPL" tvg-logo="https://raw.githubusercontent.com/njm-xbmc/njmc/refs/heads/master/logos/epllogo.png",EPL 4
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
@@ -108,10 +108,10 @@ https://7pal.short.gy/SkSpMainE
 https://7pal.short.gy/ssportspl
 
 #EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://8upload.com/image/67dcf94fab602/StartSpselect1hd-e1740229230649.png" group-title="Sony Sports",Star Sports Select 1 HD
-https://maldivesn.net/hilaytv/starsportsselect1
+https://hilay.tv/l/starsportsselect1
 
 #EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://8upload.com/image/67dcfe71e3473/strselect2__2_.png" group-title="Sony Sports",Star Sports Select 2 HD
-https://maldivesn.net/hilaytv/starsportsselect2
+https://hilay.tv/l/starsportsselect2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/1200px-Sony_Sports_Network.svg.png" group-title="Sony Sports", Sony Sports 1 HD
 https://dtvxtream.com/sonyliv2/300256.m3u8
